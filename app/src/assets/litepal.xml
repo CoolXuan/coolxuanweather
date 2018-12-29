@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+<dbname value="cool_weather" />
+
+<version value="1" />
+
+<list>
+    <mapping class="com.coolxuanweather.android.db.Province"/>
+    <mapping class="com.coolxuanweather.android.db.City"/>
+    <mapping class="com.coolxuanweather.android.db.County"/>
+</list>
+</litepal>
